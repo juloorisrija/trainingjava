@@ -1,6 +1,6 @@
 package training.test2;
 
-public class PhoneBook implements Comparable<PhoneBook> {
+public class PhoneBook  {
     private String contactName;
     private Long contactNumber;
     private String address;
@@ -48,14 +48,5 @@ public class PhoneBook implements Comparable<PhoneBook> {
                 '}';
     }
 
-    @Override
-    public int compareTo(PhoneBook o) {
-        if(this.contactNumber>o.contactNumber){
-            return 1;
-        } else if (this.contactNumber<o.contactNumber) {
-            return -1;
-        }else{
-            return 0;
-        }
-    }
+
 }
