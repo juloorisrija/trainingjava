@@ -5,33 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39c60330-8918-4a9a-a3ed-9e372388e1f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv.file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Io/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Io/StudentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/EmployeeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/EmployeeCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/StudentObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/java/Candidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/java/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/java/IdAlreadyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/java/InvalidSalaryException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/java/NewStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmployeeAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MailArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SimpleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/training/collections/StudentMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/test2/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/test2/PhoneBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MonthEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MonthEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,26 +48,13 @@
       <recent name="C:\Users\srijaj\IdeaProjects\training" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeCheck">
-    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.collections.ArrayLists" />
+  <component name="RunManager" selected="Application.Contact">
+    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.test2.Contact" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Candidate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.java.Candidate" />
-      <module name="training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.training.java.*" />
+          <option name="PATTERN" value="training.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.collections.StudentObjects" />
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.test2.Library" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.collections.*" />
+          <option name="PATTERN" value="training.test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.test2.Test" />
+      <module name="training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.test2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Contact" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.EmployeeCheck" />
         <item itemvalue="Application.EmployeeCollections" />
-        <item itemvalue="Application.ArrayLists" />
-        <item itemvalue="Application.StudentObjects" />
-        <item itemvalue="Application.Candidate" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669374418979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first test with programs.">
+      <created>1669897962937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669897962937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
