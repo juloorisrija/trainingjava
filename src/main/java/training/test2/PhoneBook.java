@@ -1,6 +1,6 @@
 package training.test2;
 
-public class PhoneBook  {
+public class PhoneBook {
     private String contactName;
     private Long contactNumber;
     private String address;
