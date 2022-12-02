@@ -6,7 +6,7 @@ public class PhoneBook {
     private String address;
 
     public PhoneBook() {
-
+       super();
     }
 
     public PhoneBook(String contactName, Long contactNumber, String address) {

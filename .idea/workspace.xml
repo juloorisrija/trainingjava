@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39c60330-8918-4a9a-a3ed-9e372388e1f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/test2/ContactCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/test2/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/test2/PhoneBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669975748671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first test with programs.">
+      <created>1669975917960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669975917960</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first test with programs.">
+      <created>1669975948966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669975948966</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
