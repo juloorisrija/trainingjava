@@ -1,4 +1,4 @@
-package training.test2;
+package com.training.java.test2;
 
 public class PhoneBook {
     private String contactName;

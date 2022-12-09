@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39c60330-8918-4a9a-a3ed-9e372388e1f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/training/test2/ContactCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javainterface/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javainterface/ProductClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javainterface/StreamFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javainterface/lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javainterface/lambdaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javainterface/variableClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/java/StudentRegis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/java/TableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/java/ThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/java/ThreadClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/java/ThreadImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/java/ThreeThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/training/TransactionClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/test2/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/training/test2/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/training/java/test2/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/ContactCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/training/java/test2/ContactCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/training/test2/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/training/java/test2/PhoneBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,25 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\srijaj\IdeaProjects\training" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Contact">
-    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.test2.Contact" />
+  <component name="RunManager" selected="Application.TransactionClass">
+    <configuration name="ProductClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javainterface.ProductClass" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.test2.*" />
+          <option name="PATTERN" value="javainterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.collections.EmployeeCheck" />
+    <configuration name="StreamFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javainterface.StreamFunction" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.collections.*" />
+          <option name="PATTERN" value="javainterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.training.collections.EmployeeCollections" />
+    <configuration name="ThreadImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.java.ThreadImp" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.training.collections.*" />
+          <option name="PATTERN" value="thread.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.test2.Library" />
+    <configuration name="ThreeThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.java.ThreeThreads" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.test2.*" />
+          <option name="PATTERN" value="thread.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="training.test2.Test" />
+    <configuration name="TransactionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.TransactionClass" />
       <module name="training" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="training.test2.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Contact" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Library" />
-        <item itemvalue="Application.EmployeeCheck" />
-        <item itemvalue="Application.EmployeeCollections" />
+        <item itemvalue="Application.TransactionClass" />
+        <item itemvalue="Application.ThreeThreads" />
+        <item itemvalue="Application.ThreadImp" />
+        <item itemvalue="Application.ProductClass" />
+        <item itemvalue="Application.StreamFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -174,12 +192,29 @@
       <option name="project" value="LOCAL" />
       <updated>1669975948966</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first test with programs.">
+      <created>1669980787839</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669980787839</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new commit" />
     <MESSAGE value="first test with programs." />
     <option name="LAST_COMMIT_MESSAGE" value="first test with programs." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

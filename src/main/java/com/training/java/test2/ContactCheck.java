@@ -1,4 +1,4 @@
-package training.test2;
+package com.training.java.test2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ public class ContactCheck {
        List<PhoneBook> contact =new ArrayList<>();
        List<PhoneBook> contact1 =new ArrayList<>();
        PhoneBook phoneBook=new PhoneBook();
-
+       PhoneBook phonebook1=null;
        public List<PhoneBook> getContact() {
               return contact;
        }
@@ -28,7 +28,9 @@ public class ContactCheck {
                      if(pb.getContactName()==name){
                         pb.setContactNumber(num);
                         pb.setAddress(address);
-                        phoneBook=pb;
+                        PhoneBook pb1=new PhoneBook(pb.getContactName(), pb.getContactNumber(),pb.getAddress());
+                        //pb.getAddress();
+                            phoneBook=pb1;
                         flag=true;
                      }
               }
